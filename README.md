@@ -1,7 +1,26 @@
 
 Q1:
 Mảnh ký ức sớm nhất tôi còn giữ là hình ảnh mình đứng bên một bụi tre cạnh nhà, nhìn về phía ngôi trường mẫu giáo cách nhà không xa. Tôi biết đó là lần đầu tiên đi học mẫu giáo, nhưng thật ra tôi không nhớ lúc đó mình cảm thấy thế nào, cũng không nhớ có âm thanh hay mùi gì. Với tôi nó chỉ là một mảnh ký ức đơn lẻ, giống một bức ảnh tĩnh, vậy mà đến giờ vẫn còn nguyên. Tôi cũng không chắc việc gắn nó với ‘lần đầu đi học’ là do chính tôi nhớ hay do sau này người nhà kể lại, nhưng hình ảnh đứng bên bụi tre nhìn về phía trường thì là thứ tôi tự thấy lại trong đầu.
-Q5 answer: “Lần gần nhất là ngày 26 tháng 6 năm 2026. Tôi để quên bản photo hợp đồng mua bán căn hộ tại văn phòng chủ đầu tư, sau buổi làm việc về vấn đề lãi phạt chậm thanh toán. Tối hôm đó, khi cần tra cứu và đối chiếu một điều khoản trong hợp đồng, tôi mở túi ra mới nhận ra không còn bản photo. Cảm giác đầu tiên là lo, vì trong đó có họ tên, giấy tờ tùy thân, địa chỉ và thông tin tài chính của tôi. Dù chỉ là bản photocopy, tôi vẫn không biết nó đang ở đâu, và đến giờ tôi vẫn chưa tìm lại được. Điều giúp tôi không bị gián đoạn là trước khi đi photo, tôi đã scan toàn bộ hợp đồng, nên tối đó vẫn tra cứu và chuẩn bị làm việc với chủ đầu tư bình thường. Tôi có thói quen scan trước khi mang giấy tờ quan trọng ra ngoài, để bản giấy chỉ là bản dùng tạm, mất cũng không mất nội dung. Điều còn thiếu là bước rà lại giấy tờ trước khi rời cuộc họp, nên [từ đó tôi kiểm tra túi và bàn trước khi đứng dậy / tôi đang áp dụng thói quen này].”
+Q2:
+Con pet mình thích nhất: Tuần Sau, một chú rùa (tưởng tượng).
+
+Mình là dân trì hoãn chính hiệu: việc gì cũng “tuần sau làm”, và tuần sau cứ trôi đi mãi. Nên mình nuôi một chú rùa tên Tuần Sau cho có người đồng hành. Giờ ai hỏi “Tuần Sau đâu rồi?”, mình trả lời rất thật thà: “Đang bò tới.” Cái tên vừa tả đúng con vật, vừa là lời thú nhận của chính mình, và nó là lời bào chữa duy nhất của mình luôn đúng sự thật.
+
+Những tên khác mình muốn đặt:
+
+Deadline, cho con mèo chỉ chịu dậy khi thức ăn sắp hết, tức là sát giờ mới chịu làm gì.
+Snooze, cho chú cú hay ngủ nướng, bấm báo thức thêm 5 phút nữa.
+Mai Tính, cho con ốc sên, vì bò kiểu gì cũng “mai tính”.
+Chí Phèo, cho chú chó lúc nào cũng gầm gừ nhưng chẳng làm hại ai.
+Dế Mèn, cho một chú dế. Đương nhiên rồi.
+Hamlet, cho chuột hamster (“To be or not to be... ăn hạt tiếp?”).
+Pi, cho bé cún tròn xoe: 3,14159... và vẫn đang lớn.
+Bánh Bao Chiên, cho bé corgi vàng ươm, phồng phồng.
+Tấm và Cám, cho hai con cá vàng sẽ không bao giờ được ở chung bể.
+Bé Ơi Đừng Khóc, cho chú chó chưa từng khóc, vì cuộc đời nó đã quá ổn.
+
+
+Q5: “Lần gần nhất là ngày 26 tháng 6 năm 2026. Tôi để quên bản photo hợp đồng mua bán căn hộ tại văn phòng chủ đầu tư, sau buổi làm việc về vấn đề lãi phạt chậm thanh toán. Tối hôm đó, khi cần tra cứu và đối chiếu một điều khoản trong hợp đồng, tôi mở túi ra mới nhận ra không còn bản photo. Cảm giác đầu tiên là lo, vì trong đó có họ tên, giấy tờ tùy thân, địa chỉ và thông tin tài chính của tôi. Dù chỉ là bản photocopy, tôi vẫn không biết nó đang ở đâu, và đến giờ tôi vẫn chưa tìm lại được. Điều giúp tôi không bị gián đoạn là trước khi đi photo, tôi đã scan toàn bộ hợp đồng, nên tối đó vẫn tra cứu và chuẩn bị làm việc với chủ đầu tư bình thường. Tôi có thói quen scan trước khi mang giấy tờ quan trọng ra ngoài, để bản giấy chỉ là bản dùng tạm, mất cũng không mất nội dung. Điều còn thiếu là bước rà lại giấy tờ trước khi rời cuộc họp, nên [từ đó tôi kiểm tra túi và bàn trước khi đứng dậy / tôi đang áp dụng thói quen này].”
 
 Q7:
 “Tôi hay đi tuyến 104 từ Đại học Nông Lâm xuống Bình Thạnh để thăm người thân vào những dịp lễ không đi học. Với tôi, ghế tốt nhất là ghế phía đầu xe, vì ở đó tôi ít bị say xe và ít bị xóc hơn phía sau. Tôi chọn như vậy chủ yếu vì lý do sức khỏe của mình, nên tôi không coi đó là ghế tốt nhất cho mọi người.
